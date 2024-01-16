@@ -1,0 +1,14 @@
+
+.col {
+	margin-bottom: 15px;
+}
+.tab-content:not(.form-inline) {
+	border: 1px solid #ddd;
+	border-top: none;
+}
+.tab-pane {
+	padding: 15px;
+}
+#search-form {
+	margin-bottom: 0;
+}
